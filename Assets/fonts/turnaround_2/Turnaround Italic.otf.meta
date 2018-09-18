@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 1c4934f4457be4a30b2d8c738847f765
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Turnaround
+  fontNames:
+  - Turnaround
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 008ef6e82ba344df18130234bb1fcfad, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
